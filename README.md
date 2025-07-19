@@ -47,3 +47,7 @@ git clone https://github.com/yourusername/comfyui-custom-aspect-resize.git
 - align_mode: "Align Longer Side"
 
 ### 使用例2
+
+ComfyUIワークフローでの使用例：
+
+![ワークフロー例](sample.png)
